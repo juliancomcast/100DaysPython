@@ -116,6 +116,7 @@
 # Day 24: Object-Oriented Programming
 **Completion Date:** 6/26/2019
 
+
 **Learned:** Decorators, Positional Arguments, Classes, Appending changes to classes
 
 # Day 25: List Comprehensions
